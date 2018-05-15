@@ -54,16 +54,18 @@ def installed()
 	subscribe(sensor, "temperature", temperatureHandler)
 	if (motion) {
 		subscribe(motion, "motion", motionHandler)
-	}
+	} else {
+    	def currentTemperature = sensor.currentTemperature
+    	if (currentTemperature != null) {
+			evaluate(currentTemperature, setpoint)
+		}
+    }
 }
 
 def updated()
 {
 	unsubscribe()
-	subscribe(sensor, "temperature", temperatureHandler)
-	if (motion) {
-		subscribe(motion, "motion", motionHandler)
-	}
+	installed()
 }
 
 def temperatureHandler(evt)
@@ -141,4 +143,3 @@ private hasBeenRecentMotion()
 	}
 	isActive
 }
-

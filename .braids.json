@@ -42,6 +42,11 @@
       "branch": "master",
       "path": "smartapps/stelpro/update-weather.src",
       "revision": "3710c5740ce4e3772f711936d2946e26d2b8f75d"
+    },
+    "smartapps/smartthings/virtual-thermostat.src": {
+        "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
+        "branch": "master",
+        "path": "smartapps/smartthings/virtual-thermostat.src"
     }
   }
 }

@@ -29,19 +29,19 @@
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "devicetypes/smartthings/smartsense-multi-sensor.src",
-      "revision": "b57b17ecebaa8a98b58a5ddbf13a227329a0e21f"
+      "revision": "85a4e6613abf5445acd76e2f33fa5dc1a531377e"
     },
     "devicetypes/smartthings/virtual-dimmer-switch.src": {
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "devicetypes/smartthings/virtual-dimmer-switch.src",
-      "revision": "b57b17ecebaa8a98b58a5ddbf13a227329a0e21f"
+      "revision": "85a4e6613abf5445acd76e2f33fa5dc1a531377e"
     },
     "devicetypes/smartthings/virtual-switch.src": {
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "devicetypes/smartthings/virtual-switch.src",
-      "revision": "b57b17ecebaa8a98b58a5ddbf13a227329a0e21f"
+      "revision": "85a4e6613abf5445acd76e2f33fa5dc1a531377e"
     },
     "devicetypes/stelpro/stelpro-ki-zigbee-thermostat.src": {
       "url": "https://github.com/stelpro/SmartThingsPublic",
@@ -65,31 +65,31 @@
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "smartapps/smartthings/garage-door-monitor.src/garage-door-monitor.groovy",
-      "revision": "b57b17ecebaa8a98b58a5ddbf13a227329a0e21f"
+      "revision": "85a4e6613abf5445acd76e2f33fa5dc1a531377e"
     },
     "smartapps/smartthings/mail-arrived.src": {
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "smartapps/smartthings/mail-arrived.src",
-      "revision": "b57b17ecebaa8a98b58a5ddbf13a227329a0e21f"
+      "revision": "85a4e6613abf5445acd76e2f33fa5dc1a531377e"
     },
     "smartapps/smartthings/the-flasher.src": {
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "smartapps/smartthings/the-flasher.src",
-      "revision": "b57b17ecebaa8a98b58a5ddbf13a227329a0e21f"
+      "revision": "85a4e6613abf5445acd76e2f33fa5dc1a531377e"
     },
     "smartapps/smartthings/virtual-device-creator.src": {
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "smartapps/smartthings/virtual-device-creator.src",
-      "revision": "b57b17ecebaa8a98b58a5ddbf13a227329a0e21f"
+      "revision": "85a4e6613abf5445acd76e2f33fa5dc1a531377e"
     },
     "smartapps/smartthings/virtual-thermostat.src": {
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "smartapps/smartthings/virtual-thermostat.src",
-      "revision": "b57b17ecebaa8a98b58a5ddbf13a227329a0e21f"
+      "revision": "85a4e6613abf5445acd76e2f33fa5dc1a531377e"
     },
     "smartapps/stelpro/update-weather.src": {
       "url": "https://github.com/stelpro/SmartThingsPublic",

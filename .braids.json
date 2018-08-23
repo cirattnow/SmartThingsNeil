@@ -95,31 +95,31 @@
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "smartapps/smartthings/garage-door-monitor.src/garage-door-monitor.groovy",
-      "revision": "66217bf7269ac1547eea0c47b96c0d6c26d927fd"
+      "revision": "af920bbe16f0cd6c41ae6edf8ff6728620da11d3"
     },
     "smartapps/smartthings/mail-arrived.src": {
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "smartapps/smartthings/mail-arrived.src",
-      "revision": "66217bf7269ac1547eea0c47b96c0d6c26d927fd"
+      "revision": "af920bbe16f0cd6c41ae6edf8ff6728620da11d3"
     },
     "smartapps/smartthings/the-flasher.src": {
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "smartapps/smartthings/the-flasher.src",
-      "revision": "66217bf7269ac1547eea0c47b96c0d6c26d927fd"
+      "revision": "af920bbe16f0cd6c41ae6edf8ff6728620da11d3"
     },
     "smartapps/smartthings/virtual-device-creator.src": {
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "smartapps/smartthings/virtual-device-creator.src",
-      "revision": "66217bf7269ac1547eea0c47b96c0d6c26d927fd"
+      "revision": "af920bbe16f0cd6c41ae6edf8ff6728620da11d3"
     },
     "smartapps/smartthings/virtual-thermostat.src": {
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "smartapps/smartthings/virtual-thermostat.src",
-      "revision": "66217bf7269ac1547eea0c47b96c0d6c26d927fd"
+      "revision": "af920bbe16f0cd6c41ae6edf8ff6728620da11d3"
     },
     "smartapps/stelpro/update-weather.src": {
       "url": "https://github.com/stelpro/SmartThingsPublic",

@@ -5,19 +5,19 @@
       "url": "https://github.com/erocm123/SmartThingsPublic",
       "branch": "master",
       "path": "devicetypes/erocm123/inovelli-2-channel-smart-plug-nzw37-w-scene.src",
-      "revision": "7542a0445e910334f3a4328c7f27e697f2f40d26"
+      "revision": "c917e051827638cef7fa051e377575743507fc06"
     },
     "devicetypes/erocm123/metering-switch-child-device.src": {
       "url": "https://github.com/erocm123/SmartThingsPublic",
       "branch": "master",
       "path": "devicetypes/erocm123/metering-switch-child-device.src",
-      "revision": "706fddd7f658e84ffe2b8b33d47e41c94693e3bd"
+      "revision": "c917e051827638cef7fa051e377575743507fc06"
     },
     "devicetypes/erocm123/switch-child-device.src/switch-child-device.groovy": {
       "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
       "branch": "master",
       "path": "devicetypes/erocm123/switch-child-device.src/switch-child-device.groovy",
-      "revision": "5b0558d3e6f0ffe49286efbb0ab2f3412801d621"
+      "revision": "be02490fbffa8dc4731ee1a34e608b240653e85b"
     },
     "devicetypes/fortrezz/fortrezz-mimolite.src": {
       "url": "https://github.com/fortrezz/smartthings",
